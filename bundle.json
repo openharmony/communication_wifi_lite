@@ -9,6 +9,9 @@
     "author": {},
     "repository": "",
     "license": "Apache License 2.0",
+    "segment": {
+      "destPath": "foundation/communication/wifi_lite"
+  },
     "component": {
       "name": "wifi_lite",
       "subsystem": "communication",
